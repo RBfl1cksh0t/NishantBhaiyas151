@@ -1,7 +1,6 @@
 package Arrays;
 
 import java.util.Arrays;
-
 public class RotateArray {
 
     static int[] rotateArray (int[] arr, int k){
